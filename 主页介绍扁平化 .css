@@ -29,12 +29,16 @@
 }
 #x-slider-pannel-center1-carouse{
     margin-left:-200px;
+    transition:  margin-top  1s;
 }
 #x-slider-pannel-center2-carouse{
-    margin-left: -400px;
+    margin-top: -1200px;
+    margin-left:-400px;
+    transition:  margin-top  1s;
 }
 #x-slider-pannel-right-carouse{
-    margin-left:-600px;
+    margin-left:-2200px;
+    transition: margin-left  1s;
 }
 #slider-dots{
     width: 400px;
@@ -54,5 +58,5 @@
     margin: 10px;
 }
 #x-slider-pannel-left-carouse{
-    transition: margin-left 1s;
+    transition: margin-left  1s;
 }
