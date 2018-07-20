@@ -1,0 +1,15 @@
+#x-slider-pannels{
+    width: 950px;
+    margin:0 auto;
+
+}
+.x-slider-pannel{
+    width:200px;
+    height: 600px;
+}
+.x-slider-pannel-left-carouse1{
+    float: left;
+    width: 200px;
+
+
+}
