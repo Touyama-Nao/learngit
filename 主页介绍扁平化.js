@@ -11,6 +11,7 @@ $(function(){
             console.log(i);
             var t= this;
             for( i=0;i<3;i++){
+                console.log(i);
                 $("#x-slider-pannel-left-carouse").css("margin-left" ,(-i*800)+"px");
             console.log(i);
         }
