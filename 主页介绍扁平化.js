@@ -188,6 +188,7 @@ $(function(){
                 $(".slider-dot").eq(i-2).css("background-color","white");
                 $(".slider-dot").eq(i-1).css("background-color","yellow");
             })
+            
         }
     }.fn2();
 })
