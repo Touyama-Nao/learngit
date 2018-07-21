@@ -4,7 +4,7 @@
 
 }
 #x-slider-pannel-left-carouse,#x-slider-pannel-right-carouse{
-    width: 2400px;
+    width: 3200px;
     height: 600px;
 }
 .x-slider-pannel{
@@ -18,7 +18,7 @@
     width: 800px;
 }
 #x-slider-pannel-center1-carouse,#x-slider-pannel-center2-carouse{
-    height: 1800px;
+    height: 2400px;
     width:800px;
 }
 .x-slider-pannel-center1-carouse1,.x-slider-pannel-center2-carouse1{
@@ -29,17 +29,15 @@
 }
 #x-slider-pannel-center1-carouse{
     margin-left:-200px;
-    transition:  margin-top  1s;
 }
 #x-slider-pannel-center2-carouse{
-    margin-top: -1200px;
+    margin-top: -1800px;
     margin-left:-400px;
-    transition:  margin-top  1s;
 }
 #x-slider-pannel-right-carouse{
-    margin-left:-2200px;
-    transition: margin-left  1s;
+    margin-left:-3000px;
 }
+
 #slider-dots{
     width: 400px;
     margin:0 auto;
@@ -57,9 +55,7 @@
     float: left;
     margin: 10px;
 }
-#x-slider-pannel-left-carouse{
-    transition: margin-left  1s;
-}
+
 #x-slider-pannels-previous{
    left:20%;
     position: absolute;
