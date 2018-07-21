@@ -60,3 +60,34 @@
 #x-slider-pannel-left-carouse{
     transition: margin-left  1s;
 }
+#x-slider-pannels-previous{
+   left:0;
+    position: absolute;
+    top:30%;
+    background-color: rgba(0, 147, 253, 0.5);
+    height: 40px;
+    width:40px;
+    font-size: 24px;
+    line-height:40px;
+    padding: 8px;;
+    transition: background 5s;
+    text-align:center;
+}
+#x-slider-pannels-next{
+   
+    right:0px;
+    position: absolute;
+    top:30%;
+    background-color: rgba(0, 147, 253, 0.5);
+    height: 40px;
+    width:40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 24px;
+    padding: 8px;;
+    transition: background 5s;
+}
+.iconb{
+    font-family: icomoon;
+    color:white;
+}
